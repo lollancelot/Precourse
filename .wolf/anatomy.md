@@ -1,7 +1,7 @@
 # anatomy.md
 
-> Auto-maintained by OpenWolf. Last scanned: 2026-04-23T02:54:01.351Z
-> Files: 37 tracked | Anatomy hits: 0 | Misses: 0
+> Auto-maintained by OpenWolf. Last scanned: 2026-04-23T23:54:25.492Z
+> Files: 44 tracked | Anatomy hits: 0 | Misses: 0
 
 ## ./
 
@@ -114,3 +114,19 @@
 ## Lesson8-DOM/homework/assets/
 
 - `style.css` — Styles: 12 rules (~462 tok)
+
+## journal-app/
+
+- `app.py` — API router (~843 tok)
+- `requirements.txt` — Python dependencies (~8 tok)
+
+## journal-app/static/
+
+- `icon-192.svg` (~65 tok)
+- `icon-512.svg` (~66 tok)
+- `manifest.json` (~136 tok)
+- `sw.js` — Declares CACHE (~174 tok)
+
+## journal-app/templates/
+
+- `index.html` — AI Journal (~4793 tok)
