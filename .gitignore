@@ -61,3 +61,7 @@ typings/
 
 package-lock.json
 
+# Journal app
+journal-app/journal.db
+journal-app/__pycache__/
+
